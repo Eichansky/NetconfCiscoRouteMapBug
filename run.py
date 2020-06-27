@@ -8,7 +8,7 @@ For the demonstration, the script uses the DevNet sandbox. For more information 
 
 ## Global Variables
 __author__       = "Maxim Deschenes"
-__author_email__ = "maxim.deschenes@outlook.ca"
+__author_email__ = "maxim.deschenes@outlook.com"
 __copyright__    = "Copyright (c) 2020 Maxim Deschenes"
 __license__      = "BSD-3-Clause (https://opensource.org/licenses/BSD-3-Clause)"
 
